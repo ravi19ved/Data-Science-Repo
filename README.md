@@ -28,5 +28,6 @@ My All Data Science Repositories
 
   - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
   - https://www.mltut.com/best-free-online-courses-for-statistics/
+  - https://www.dataquest.io/blog/python-projects-for-beginners/
 
 
