@@ -12,4 +12,5 @@ My All Data Science Repositories
 
 
 # Resource Link
-https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
+  - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
+  - https://www.mltut.com/best-free-online-courses-for-statistics/
