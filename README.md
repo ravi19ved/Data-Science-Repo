@@ -31,10 +31,12 @@ My All Data Science Repositories
   - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
   - https://www.mltut.com/best-free-online-courses-for-statistics/
   - https://www.dataquest.io/blog/python-projects-for-beginners/
+  - https://zealoq.com/feed/view/card/949/a-step-by-step-roadmap-to-learn-ai-ml-by-the-end-of-2023-from-scratch?utm_user=24305
 
 # Project-Links
-https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
-https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=shm
+  - https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
+  - https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=shm
+
 
 # Other Resources
 Here are some of the best free #resources to learn. If you find this helpful, please #share it with others!
